@@ -1,0 +1,14 @@
+{
+  "itemId" : "_0gxAsFMwEfG2zro7yp6Y_Q",
+  "contextList" : [ {
+    "contextName" : "Default",
+    "repoId" : "_ZYPAQFDXEfGbSvL2g3wyVQ",
+    "parameterList" : [ {
+      "id" : "_f5rUAVDXEfGbSvL2g3wyVQ",
+      "name" : "etl_end_date"
+    }, {
+      "id" : "_f5rUAFDXEfGbSvL2g3wyVQ",
+      "name" : "etl_start_date"
+    } ]
+  } ]
+}
